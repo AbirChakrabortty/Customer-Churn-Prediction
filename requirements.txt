@@ -1,0 +1,16 @@
+# Web Frameworks
+
+fastapi
+
+Flask
+
+uvicorn
+
+
+
+# Machine Learning & Data Processing
+scikit-learn
+
+pandas
+
+numpy
